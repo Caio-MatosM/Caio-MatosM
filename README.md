@@ -42,7 +42,7 @@
 
 🔗 **Portfólio Pessoal** – Desenvolvido com HTML, CSS e JavaScript. Conta com modo escuro, animações, transições e um formulário de contato funcional.
 
-👉 [Clique aqui para acessar o portfólio online](caio-matosm.github.io/Portfolio2025/)
+👉 [Clique aqui para acessar o portfólio online](https://caio-matosm.github.io/Portfolio2025/)
 
 ---
 
