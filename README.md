@@ -50,7 +50,7 @@
 
 📫 **E-mail**: [caiomatosmiranda2008@gmail.com](mailto:caiomatosmiranda2008@gmail.com)  
 💼 **LinkedIn**: [linkedin.com/in/caio-matos-miranda](https://www.linkedin.com/in/caio-matos-miranda-0aa900349/)  
-💻 **GitHub**: [github.com/caiozin333](https://github.com/caio-matosm)
+💻 **GitHub**: [github.com/caio-matosm](https://github.com/caio-matosm)
 
 ---
 
